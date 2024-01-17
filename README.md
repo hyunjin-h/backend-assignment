@@ -17,9 +17,13 @@ sts.ini파일에 ```-vm C:\Program Files\Java\jdk1.8.0_211\jre\bin\java.exe```�
 
 <img width="336" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/0d6760aa-5a75-4c0c-b06b-aaf5296ab2d3">  
 
-## 1.5 mariadb, mySql Workbench 설치 및 샘플 DB 구축(진행)
-mariadb: 10.2.14
+## 1.5 mariadb, mySql Workbench 설치 및 샘플 DB 구축(완료)
+mariadb: 10.2.14  
 mySql Workbench: 8.0.31
+<img width="196" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/e83d2a28-8d72-48c0-83f4-07649f2cf86e">  
+## 1.6. 스프링, Mariadb, MyBatis 연동, 데이터 조회(진행)
+
+
 
 
 
