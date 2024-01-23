@@ -25,7 +25,8 @@
 <img width="150" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/0e5ef1de-0b71-4322-b160-e091f6ad4f74">  
 
 ## 2. API가이드문서작성
-2024-01-23
+#### 2.1 [REST API 학습🔗](https://iridescent-gram-5b1.notion.site/Rest-API-11c7d6a696244bab8a0bcbc577a11195)
+#### 2.2 [API 가이드문서🔗](https://docs.google.com/document/d/163Qa97KfB4G4YzFa5DE8VrhNucq5Xg4kTOVlipGDoyI/edit?usp=sharing)
 
 
 
