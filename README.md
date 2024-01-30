@@ -28,6 +28,9 @@
 #### 2.1 [REST API 학습🔗](https://iridescent-gram-5b1.notion.site/Rest-API-11c7d6a696244bab8a0bcbc577a11195)
 #### 2.2 [API 가이드문서🔗](https://docs.google.com/document/d/163Qa97KfB4G4YzFa5DE8VrhNucq5Xg4kTOVlipGDoyI/edit?usp=sharing)
 
+## 3. Restful API 구현 (진행중)
+오류로인해 진행중에 있습니다.
+<img width="222" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/bd789f05-3038-4562-a7fb-b5da93ffbc6a">
 
 
 
