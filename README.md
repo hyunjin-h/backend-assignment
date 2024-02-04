@@ -28,14 +28,18 @@
 #### 2.1 [REST API 학습🔗](https://iridescent-gram-5b1.notion.site/Rest-API-11c7d6a696244bab8a0bcbc577a11195)
 #### 2.2 [API 가이드문서🔗](https://docs.google.com/document/d/163Qa97KfB4G4YzFa5DE8VrhNucq5Xg4kTOVlipGDoyI/edit?usp=sharing)
 
-## 3. Restful API 구현 (진행중)
+## 3. Restful API 구현 (완료)
+#### 3.1 스프링부트로 개발 환경 설정하기(완료)
 오류로인해 진행중에 있습니다.  
-개발환경 다시 세팅해보며 진행중입니다!  
-<img width="490" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/8bc39d71-eb7f-41c1-9a97-ebcb20e46b17">
+> whitlabel error 경로에 문제가 있었습니다! -> 해결하였습니다. 파일 경로에 주의하겠습니다.    
+> <img width="234" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/1e38c7d2-45af-456f-88be-4da1b4829562">
 
+#### 3.2 통계(SW활용현황) API를 위한 DB, Table 생성(완료)
+workbench에서 진행하였습니다.  
+<img width="463" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/6848e668-7de7-4972-a8c8-c927a1be0e62">
 
-
-
+#### 3.3 [20년도 로그인수 API ]스프링부트, Mybatis, mariadb 연동 (완료)
+<img width="312" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/48348336-d67c-47aa-b90d-62a4977f4d62">
 
 
 
