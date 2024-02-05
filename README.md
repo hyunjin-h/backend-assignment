@@ -43,7 +43,7 @@ workbench에서 진행하였습니다.
 <img width="312" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/48348336-d67c-47aa-b90d-62a4977f4d62">
 
 ## 4. 최종 구현
-#### 3.1 API 구현
+#### 4.1 API 구현
 휴일을 제외하는 API를 제외한 것들은 완료하였습니다.  
 sql 작성부분과 API를 구성하는 부분들을 개선해야할 것 같습니다. 평균을 계산하는 부분도 그냥 30일로 계산하는 것이 아닌, 해당 월의 날짜수를 가지고와서 계산하는 것으로 개선해야할 것 같습니다.  
 <img width="1145" alt="image" src="https://github.com/hyunjin-h/backend-assignment/assets/87686021/a6ee57a0-ae31-4d14-9919-f8e823300528">  
